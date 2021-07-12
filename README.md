@@ -1,5 +1,5 @@
 # Alan
-![Alan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyGoal&layout=compact&langs_count=12&theme=graywhite)
+![Alan's github stats](https://github-readme-stats.vercel.app/api?username=JollyGoal&count_private=true&show_icons=true&theme=graywhite)
 
 ![My lang of choice](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyGoal&layout=compact&langs_count=12&theme=graywhite)
 
